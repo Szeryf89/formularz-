@@ -1,0 +1,43 @@
+/*
+Theme Name: twentyeleven - child
+Template: twentyeleven
+*/
+
+@import url("../twentyeleven/style.css");
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css);
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #000000;
+    border: 2px solid #fab207;
+    border-radius: 10px;
+	padding: 20px;
+    margin-top: 20px;
+    color: #fab207;
+}
+
+.form_section {
+	padding: 5px;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	margin-bottom: 25px;
+	width: 200px;
+}
+
+.form_message {
+	padding: 5px;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	margin-bottom: 25px;
+    width: 400px;
+    color: black;
+}
+
+.form_name {
+    padding: 5px;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	margin-bottom: 25px;
+	width: 400px;
+}
